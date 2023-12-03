@@ -1,7 +1,7 @@
 
 path: /home/lucas/Documents/EdraTrainee
-train: train/basedepouso.yolo/train/images # train images (relative to 'path')
-val: train/basedepouso.yolo/train/images  # val images (relative to 'path')
+train: train/train/images # train images (relative to 'path')
+val: train/train/images  # val images (relative to 'path')
 
 # Classes
 names:
