@@ -20,8 +20,10 @@ A ideia principal desse projeto é de fazer um codigo utilizando Machine Learnin
 * [YOLO]()
 
 ## Como utilizar
+installe as dependencias
 ```bash
-git clone
+pip install opencv-python
+pip install ultralytics
 ```
 ## License
 MIT
